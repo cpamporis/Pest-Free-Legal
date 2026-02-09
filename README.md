@@ -1,5 +1,3 @@
-# Pest-Free-Legal
-
 # Pest-Free – Legal Documents
 
 This repository hosts the public legal documents for the *Pest-Free* mobile application.
